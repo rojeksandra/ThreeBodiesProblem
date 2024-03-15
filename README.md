@@ -22,7 +22,7 @@ Po rozwiązaniu równań różniczkowych otrzymano trajektorie ruchu trzech cia�
 
 
 **Prezentacja Symulacji:**
-
+<img src="wtrakciedzialania.png" alt="Zdjęcie 1">
 
 
 ---
