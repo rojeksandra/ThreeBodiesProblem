@@ -24,5 +24,5 @@ Po rozwiązaniu równań różniczkowych otrzymano trajektorie ruchu trzech cia�
 Symulacja ruchu trzech ciał w układzie grawitacyjnym jest złożonym zagadnieniem, które można skutecznie modelować za pomocą numerycznych metod obliczeniowych. Takie symulacje pozwalają zrozumieć i zobrazować dynamikę ruchu ciał w kosmosie, co ma znaczenie zarówno w badaniach naukowych, jak i w edukacji.
 
 ---
-*Autorzy:Projekt realizowany w zespołach 2 osobowych na potrzeby przedmiotu Fizyka*  
+*Autorzy: Projekt realizowany w zespołach 2 osobowych na potrzeby przedmiotu Fizyka*  
 
